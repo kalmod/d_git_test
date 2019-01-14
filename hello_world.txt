@@ -1,0 +1,6 @@
+Hello World!
+
+P.S. - I can use either the -c argument (not sure what that does) or 
+type & at the end of a bash command to make the program open as a bg process.
+This lets me continue using the same terminal window. 
+I can also use ctrl + z to pause the process and go back to using the terminal.
